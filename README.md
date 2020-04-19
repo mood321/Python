@@ -23,4 +23,4 @@ https://pypi.tuna.tsinghua.edu.cn/simple/
 不定期更新
 
 Day01
-<a href="./blob/master/day01">爬取套图</a>
+<a href="/mood321/Python/tree/master/day01">爬取套图</a>
